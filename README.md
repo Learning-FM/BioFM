@@ -9,7 +9,7 @@
 
 
 <p align="center">
-    <img src="pictures/framework.jpg" width="1000" align="center">
+    <img src="framework.jpg" width="1000" align="center">
 </p>
 
 
