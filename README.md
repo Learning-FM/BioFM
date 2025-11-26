@@ -18,7 +18,7 @@
 
 
 
-### 脑电
+### 脑电数据集
 * [FaceDetection](https://www.timeseriesclassification.com/description.php?Dataset=FaceDetection)
 * [FingerMovements](https://www.timeseriesclassification.com/description.php?Dataset=FingerMovements)
 * [HandMovementDirection](https://www.timeseriesclassification.com/description.php?Dataset=HandMovementDirection) 
@@ -26,7 +26,7 @@
 * [SelfRegulationSCP1](https://www.timeseriesclassification.com/description.php?Dataset=SelfRegulationSCP1)
 * [SelfRegulationSCP2](https://www.timeseriesclassification.com/description.php?Dataset=SelfRegulationSCP2)
 
-### 心电
+### 心电数据集
 * [ECG200](https://www.timeseriesclassification.com/description.php?Dataset=ECG200)
 * [CinCECGTorso](https://www.timeseriesclassification.com/description.php?Dataset=CinCECGTorso)
 * [ECG5000](https://www.timeseriesclassification.com/description.php?Dataset=ECG5000)
@@ -34,7 +34,7 @@
 * [NonInvasiveFetalECGThorax1](https://www.timeseriesclassification.com/description.php?Dataset=NonInvasiveFetalECGThorax1)
 * [NonInvasiveFetalECGThorax2](https://www.timeseriesclassification.com/description.php?Dataset=NonInvasiveFetalECGThorax2)
 
-### 惯性测量单元
+### 惯性测量单元数据集
 * [CricketX](https://www.timeseriesclassification.com/description.php?Dataset=CricketX) 
 * [CricketY](https://www.timeseriesclassification.com/description.php?Dataset=CricketY)
 * [CricketZ](https://www.timeseriesclassification.com/description.php?Dataset=CricketZ) 
