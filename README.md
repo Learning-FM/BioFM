@@ -1,15 +1,12 @@
-# BioFM
-Foundation Model for Wearable Biosignal
-# [A Survey on Time-Series Pre-Trained Models](https://arxiv.org/pdf/2305.10716v2)
+# 可穿戴信号的基础模型建模范式算法研究综述
 
-This is the training code for our paper *"[A Survey on Time-Series Pre-Trained Models](https://arxiv.org/pdf/2305.10716v2)"*, which has been accepted for publication in the IEEE Transactions on Knowledge and Data Engineering (TKDE-24).
 
-## Overview
 
-Time-Series Mining (TSM) is an important research area since it shows great potential in practical applications. Deep learning models that rely on massive labeled data have been utilized for TSM successfully. However, constructing a large-scale well-labeled dataset is difficult due to data annotation costs. 
-Recently, pre-trained models have gradually attracted attention in the time series domain due to their remarkable performance in computer vision and natural language processing. In this survey, we provide a comprehensive review of Time-Series Pre-Trained Models (TS-PTMs), aiming to guide the understanding, applying, and studying TS-PTMs. 
-Specifically, we first briefly introduce the typical deep learning models employed in TSM. Then, we give an overview of TS-PTMs according to the pre-training techniques. The main categories we explore include supervised, unsupervised, and self-supervised TS-PTMs.
-Further, extensive experiments involving  27 methods, 434 datasets, and 679 transfer learning scenarios are conducted to analyze the advantages and disadvantages of transfer learning strategies, Transformer-based models, and representative TS-PTMs. Finally, we point out some potential directions of TS-PTMs for future work.
+## 摘要
+
+基础模型的快速发展从根本上重塑了可穿戴生理序列建模范式，并在多种下游任务中带来了显著性能提升。这类方法通常通过预训练或微调基础模型，以获取能够迁移至心电图、脑电图、惯性测量单元、光电容积描记以及多类可穿戴感知信号等生理序列任务的泛化知识。这些生理序列构成了人体生理与行为“语言”，在多种临床环境中具有丰富的诊断与预后价值。本综述旨在对可穿戴生理序列基础模型提供全面、系统且最新的研究脉络总结。尽管已有综述分别从医疗影像方面、时间序列方面以及生理信号数据层面对基础模型进行了讨论，但仍缺乏对方法论范式的核心机制的深入剖析，即基础模型为何能够在可穿戴生理序列任务中发挥作用，以及其背后如何实现有效提升。为弥补这一空白，本文采用方法学范式为核心的分类视角，对可穿戴生理序列基础模型的关键组成要素进行系统化全景梳理，包括：基础模型的演化，模型架构，预训练范式，适配范式，数据模态以及应用场景等，进一步地，我们选取了不同预训练范式在四类不同领域数据集（ECG，EEG，IMU，EOG）上开展了大规模的实验，系统地分析了不同预训练策略对可穿戴序列的优势与不足。
+
+
 
 <p align="center">
     <img src="pictures/framework.jpg" width="1000" align="center">
