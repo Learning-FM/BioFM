@@ -50,6 +50,7 @@
 
 ### 多模态数据集
 * [128 UCR datasets](https://www.cs.ucr.edu/~eamonn/time_series_data_2018/UCRArchive_2018.zip)
+* [30 UEA datasets](https://www.timeseriesclassification.com/index.php)
 
 
 ## 对比式预训练模型
