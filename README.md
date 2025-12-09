@@ -59,7 +59,7 @@
 - [x] [TS-TCC](https://github.com/emadeldeen24/TS-TCC)
 - [x] [TS2Vec](https://github.com/zhihanyue/ts2vec)
 ## 生成式预训练模型
-- [x] [TST](https://github.com/gzerveas/mvts_transformer)
+
 - [x] [PatchTST](https://github.com/yuqinie98/PatchTST)
 - [x] [GPT4TS](https://github.com/DAMO-DI-ML/NeurIPS2023-One-Fits-All)
 ## 预测式预训练模型
