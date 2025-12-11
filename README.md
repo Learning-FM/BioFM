@@ -66,7 +66,6 @@
 - [x] [TimesNet](https://github.com/thuml/TimesNet)
 
 
-详细信息请参考[ts_anomaly_detection_methods/README](https://github.com/qianlima-lab/transfer-to-transformer-tsm/blob/master/ts_anomaly_detection_methods/README.md).
 
 ## 致谢
 我们感谢匿名审稿人所提供的宝贵意见。
